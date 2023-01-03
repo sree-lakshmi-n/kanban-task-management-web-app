@@ -1,0 +1,21 @@
+:root {
+  /* COLORS */
+  /* Primary */
+  --dark-purple: #635fc7;
+  /* Accents */
+  --red: #ea5555;
+  /* Tints */
+  --light-purple: #a8a4ff;
+  --light-red: #ff9898;
+  /* Neutrals */
+  --black: #000112;
+  --very-dark-blue: #20212c;
+  --dark-slate-grey: #2b2c37;
+  --dark-blue: #3e3f4e;
+  --cyan-blue: #828fa3;
+  --light-blue: #e4ebfa;
+  --very-light-blue: #f4f7fd;
+  --white: #ffffff;
+
+  /* TYPOGRAPHY */
+}
